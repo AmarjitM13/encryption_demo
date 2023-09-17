@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768532545138",
+    "project_id": "encryption-demo-6bf51",
+    "storage_bucket": "encryption-demo-6bf51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768532545138:android:c53c331b2a0d811b8b8ceb",
+        "android_client_info": {
+          "package_name": "com.example.encryption_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChGumbzmR3_9gVd_vMhxmwUF3CLPxlYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
